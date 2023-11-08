@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    color: var(--text-color);
+  }
+  
+  a {
+    color: var(--text-color);
+  }
+  
+  .visually-hidden {
+    display: none;
+  }
+  
+  .card-category {
+    color: var(--color-primary);
+  }
+  
